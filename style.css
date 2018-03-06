@@ -79,11 +79,11 @@ a{
 @media only screen and (min-width: 1400px) {
   .left-side {
     float: left;
-    padding-left: 30%;
+    padding-left: 25%;
   }
 
   .right-side {
-    padding-right: 30%;
+    padding-right: 25%;
     float: right;
   }
 }
